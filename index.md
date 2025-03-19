@@ -1,16 +1,18 @@
-# Edit with Redocly Reunite
+# Start something new
 
-The [Get started with the Reunite editor](https://redocly.com/docs/realm/get-started/start-reunite-editor) guides you through your first experiences with Reunite.
-It's a **great** way to be introduced to the workflow of making changes.
+There's a real excitement to starting something new.
 
-Afterwards, you can adjust with your own content.
+- A blank page
+- A fresh opportunity
+- Limitless potential
 
-## `index.md`
-This very page is the landing page for the project website.
-It is a Markdown file (Markdoc tags are also supported).
+## Good for writers
 
-## `openapi.yaml`
+Writers need strong tooling so they can deliver a lot of content in a short time.
+Efficiency is key, so this platform supports [Markdoc](https://markdoc.dev/) format (it's a lot like Markdown, but with added niceness).
 
-The Museum API is a sample API that you can use to try out new API tools, to learn more about OpenAPI, or whatever else you need.
-The [OpenAPI description](./openapi.yaml) can be found in `openapi.yaml`.
-You can also download it and use it as you wish.
+Build-in link checking and branch previews lets writers move quickly and safely when creating content or managing updates.
+
+## Good for readers
+
+Clean layout and a visible table of contents makes good content a pleasure to read and process.
