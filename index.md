@@ -15,4 +15,4 @@ Build-in link checking and branch previews lets writers move quickly and safely 
 
 ## Good for readers
 
-Clean layout and a visible table of contents makes good content a pleasure to read and process.
+Clean layout and a table of contents makes good content a pleasure to read and process.
